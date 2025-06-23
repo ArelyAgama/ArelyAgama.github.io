@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: ClassConnect
 description: Manual de usuario
+
+# Navegación personalizada
+navigation:
+  - name: "Manual de usuario App Mobile"
+    url: "/"
+  - name: "Manual de usuario Backoffice"
+    url: "/Backoffice"
