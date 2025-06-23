@@ -5,6 +5,6 @@ description: Manual de usuario
 # Navegación personalizada
 navigation:
   - name: "Manual de usuario App Mobile"
-    url: "/"
+    url: "/AppMobile"
   - name: "Manual de usuario Backoffice"
     url: "/Backoffice"
