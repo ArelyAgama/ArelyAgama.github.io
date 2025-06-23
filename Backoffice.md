@@ -1,12 +1,12 @@
 # 💻 Manual de Usuario - BackOffice ClassConnect
 
 ## 📋 Índice
-1. [Acceso al Sistema](#acceso-al-sistema)
-2. [Panel Principal](#panel-principal)
-3. [Gestión de Usuarios](#gestión-de-usuarios)
-4. [Administración de Cuenta](#administración-de-cuenta)
-5. [Funciones Comunes](#funciones-comunes)
-6. [Preguntas Frecuentes](#preguntas-frecuentes)
+1. [Acceso al Sistema](#-acceso-al-sistema)
+2. [Panel Principal](#-panel-principal)
+3. [Gestión de Usuarios](#-gestión-de-usuarios)
+4. [Administración de Cuenta](#-administración-de-cuenta)
+5. [Funciones Comunes](#-funciones-comunes)
+6. [Preguntas Frecuentes](#-preguntas-frecuentes)
 
 ---
 
