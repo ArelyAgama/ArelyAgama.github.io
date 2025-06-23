@@ -1,7 +1,7 @@
 # 📱 ClassConnect - Documentación
 
 ## 📋 Navegación
-- [🏠 Manual App Mobile](/ClassConnect.github.io/AppMobile)
-- [💼 Manual Backoffice](/ClassConnect.github.io/Backoffice)
+- [🏠 Manual de Usuario App Mobile](/ClassConnect.github.io/AppMobile)
+- [💼 Manual de Usuario Backoffice](/ClassConnect.github.io/Backoffice)
 
 ---

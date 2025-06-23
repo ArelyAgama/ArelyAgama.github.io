@@ -1,5 +1,5 @@
 
-# 📱 Guía Completa de Usuario - Aplicación Móvil Educativa
+# 📱 Manual de Usuario - Aplicación Móvil Educativa
 
 ## 📋 Tabla de Contenidos
 
