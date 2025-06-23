@@ -1,4 +1,4 @@
-# Manual de Usuario - BackOffice ClassConnect
+# 💻 Manual de Usuario - BackOffice ClassConnect
 
 ## 📋 Índice
 1. [Acceso al Sistema](#acceso-al-sistema)
