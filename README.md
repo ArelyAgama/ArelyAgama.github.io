@@ -1,3 +1,11 @@
+# 📱 ClassConnect - Documentación
+
+## 📋 Navegación
+- [🏠 Manual App Mobile](/) (esta página)
+- [💼 Manual Backoffice](/Backoffice)
+
+---
+
 # 📱 Guía Completa de Usuario - Aplicación Móvil Educativa
 
 ## 📋 Tabla de Contenidos
