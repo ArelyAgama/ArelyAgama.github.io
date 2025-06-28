@@ -10,3 +10,5 @@ navigation:
     url: "/Backoffice"
   - name: "Bitacora"
     url: "/Bitacora"
+  - name: "Cursos"
+    url: "/Cursos"
