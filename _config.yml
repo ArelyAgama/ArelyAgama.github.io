@@ -8,3 +8,5 @@ navigation:
     url: "/AppMobile"
   - name: "Manual de usuario Backoffice"
     url: "/Backoffice"
+  - name: "Bitacora"
+    url: "/Bitacora"
