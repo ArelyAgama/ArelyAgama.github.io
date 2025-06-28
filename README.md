@@ -2,5 +2,5 @@
 
 - [📱 Manual de Usuario App Mobile](/ClassConnect.github.io/AppMobile)
 - [💻 Manual de Usuario Backoffice](/ClassConnect.github.io/Backoffice)
-- [💻 Manual de Usuario Backoffice](/ClassConnect.github.io/Bitacora)
+- [📝 Bitácora del Proyecto ClassConnect](/ClassConnect.github.io/bitacora)
 ---
