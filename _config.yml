@@ -18,3 +18,5 @@ navigation:
     url: "/Foros"
   - name: "Usuarios"
     url: "/Usuarios"
+  - name: "IA"
+    url: "/IA"

@@ -13,6 +13,7 @@
 - [📋 Microservicio Cursos](/ClassConnect.github.io/Cursos)
 - [💬 Microservicio Foros](/ClassConnect.github.io/Foros)
 - [👥 Microservicio Usuarios](/ClassConnect.github.io/Usuarios)
+- [🤖 Microservicio IA](/ClassConnect.github.io/IA)
 
 # 📝 Postmortem
 - [📊 Postmortem del Proyecto](/ClassConnect.github.io/Postmortem)
