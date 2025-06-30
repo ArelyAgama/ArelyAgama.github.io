@@ -7,7 +7,7 @@
 # 📋 Gestion de tareas
 - [📈 Bitácora del Proyecto ClassConnect](/ClassConnect.github.io/bitacora)
 
-# 📚 Servicios Backend - DDocumentación técnica
+# 📚 Servicios Backend - Documentación técnica
 ### 🛠️ Instalación, configuración, Arquitectura, API REST
 - [📋 Microservicio Cursos](/ClassConnect.github.io/Cursos)
 - [💬 Microservicio Foros](/ClassConnect.github.io/Foros)
