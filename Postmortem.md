@@ -6,7 +6,7 @@
 
 * 2) Se habían comprometido historias que no se lograron completar.
 
-* 3) No había comunicación suficiente para visibilizar algunos problemas.
+* 3) Al principio no había comunicación suficiente para visibilizar algunos problemas.
 
 ## Causas
 
