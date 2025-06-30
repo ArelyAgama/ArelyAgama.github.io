@@ -12,3 +12,5 @@ navigation:
     url: "/Bitacora"
   - name: "Cursos"
     url: "/Cursos"
+  - name: "Postmortem"
+    url: "/Postmortem"
