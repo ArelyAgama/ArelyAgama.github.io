@@ -8,12 +8,11 @@
 - [📈 Bitácora del Proyecto ClassConnect](/ClassConnect.github.io/bitacora)
 
 # 🔧 Servicios Backend
-##  📚 Documentación técnica:
-### 🛠️ Instalación y configuración
+## 📚 Documentación técnica:
+### 🛠️ Instalación, configuración, Arquitectura API REST
 - [📋 Microservicio Cursos](/ClassConnect.github.io/Cursos)
 - [💬 Microservicio Foros](/ClassConnect.github.io/Foros)
-### 🔗 Definición de arquitectura
-### 🔌 Especificación de API REST
+- [👥 Microservicio Usuarios](/ClassConnect.github.io/Usuarios)
 
 # 📝 Postmortem
 - [📊 Postmortem del Proyecto](/ClassConnect.github.io/Postmortem)
