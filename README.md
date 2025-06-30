@@ -12,8 +12,10 @@
 #### 🛠️ Instalación y configuración
 - [📋 Microservicio Cursos](/ClassConnect.github.io/Cursos)
 - [💬 Microservicio Foros](/ClassConnect.github.io/Foros)
+### 🔗 Definición de arquitectura
+### 🔌 Especificación de API REST
 
 # 📝 Postmortem
-- [📊 Postmortem del Proyecto](./ClassConnect.github.io/Postmortem)
+- [📊 Postmortem del Proyecto](/ClassConnect.github.io/Postmortem)
 
 ---
