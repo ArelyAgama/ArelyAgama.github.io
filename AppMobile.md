@@ -508,7 +508,7 @@ R: En "Mis Asignaciones", toca "Ver detalles" en cualquier tarea o examen.
 - **🗂️ Historial completo**: Registro de todas las evaluaciones
 - **⏰ Marcas de tiempo**: Fecha y hora de cada comentario
 
-### 📈 Seguimiento de Retroalimentación (Para Estudiantes)
+### 📈 Seguimiento de Retroalimentación 
 
 #### **Vista del Estudiante**
 **Cuando el estudiante accede a su tarea evaluada:**
@@ -534,7 +534,7 @@ R: En "Mis Asignaciones", toca "Ver detalles" en cualquier tarea o examen.
 - **📅 Cronología** de entregas y evaluaciones
 - **⭐ Reconocimientos** por logros destacados
 
-### 💬 Chat de Asistencia Personalizado (Para Estudiantes)
+### 💬 Chat de Asistencia Personalizado 
 
 #### **Consultas Académicas Frecuentes**
 - **"¿Cuándo es mi próximo examen?"**
