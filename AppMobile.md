@@ -1,4 +1,3 @@
-
 # 📱 Manual de Usuario - Aplicación Móvil Educativa
 
 ## 📋 Tabla de Contenidos
@@ -9,9 +8,9 @@
 4. [Navegación Principal](#-navegación-principal)
 5. [Funcionalidades para Estudiantes](#-funcionalidades-para-estudiantes)
 6. [Funcionalidades para Docentes](#-funcionalidades-para-docentes)
-7. [Gestión de Perfil](#-gestión-de-perfil)
-8. [Preguntas Frecuentes](#-preguntas-frecuentes)
-9. [Solución de Problemas](#-solución-de-problemas)
+7. [Funcionalidades Avanzadas](#-funcionalidades-avanzadas)
+8. [Gestión de Perfil](#-gestión-de-perfil)
+9. [Preguntas Frecuentes](#-preguntas-frecuentes)
 
 ---
 
@@ -333,9 +332,6 @@ En cada tarjeta de tarea/examen:
 
 ## ❓ Preguntas Frecuentes
 
-### **🔄 Actualizaciones y Datos**
-
-
 **P: ¿Puedo usar la app sin internet?**
 R: No, la aplicación requiere conexión a internet para todas las funcionalidades.
 
@@ -381,5 +377,175 @@ R: En "Mis Asignaciones", toca "Ver detalles" en cualquier tarea o examen.
 ### **Para Todos:**
 - **Mantén tu perfil actualizado**
 - **Aprovecha los filtros** en todas las listas
+
+---
+
+## 🚀 Funcionalidades Avanzadas
+
+### 🤖 Chat de Asistencia IA
+
+#### **Acceso al Chat Inteligente**
+1. **Navegar a "Chat de Asistencia"** desde el menú principal
+2. **Tocar el ícono de chat 💬** para iniciar conversación
+3. **La interfaz mostrará:**
+   - Campo de texto para escribir consultas
+   - Historial de conversaciones previas
+   - Sugerencias de temas frecuentes
+
+#### **Realizar Consultas**
+1. **Escribir pregunta en lenguaje natural:**
+   - "¿Cómo me inscribo en un curso?"
+   - "¿Cuándo vence mi tarea de matemáticas?"
+   - "¿Qué cursos me recomiendas?"
+2. **Enviar mensaje** tocando el botón ➤
+3. **Recibir respuesta instantánea** del bot de IA
+
+#### **Funciones Avanzadas del Chat IA**
+- **🧠 Procesamiento inteligente**: Comprende el contexto de tus preguntas
+- **📚 Respuestas contextualizadas**: Información específica de la plataforma
+- **💡 Sugerencias automáticas**: Recomendaciones basadas en tu perfil
+- **📈 Aprendizaje continuo**: Mejora con cada interacción
+
+#### **Evaluar Respuestas**
+1. **Al final de cada respuesta**, tocar:
+   - 👍 **Me ayudó** 
+   - 👎 **No fue útil**
+2. **Agregar comentarios opcionales** para mejorar el servicio
+3. **El sistema aprende** de tu feedback para futuras respuestas
+
+### 📊 Estadísticas de Desempeño Estudiantil (Para Docentes)
+
+#### **Acceso a Estadísticas**
+1. **Ir a "Estadísticas de Desempeño"** desde el menú docente
+2. **Seleccionar curso específico** del desplegable
+3. **Definir período de análisis:**
+   - Fecha de inicio
+   - Fecha de fin
+   - Todo el semestre
+
+#### **Vista General del Curso**
+**📈 Indicadores Globales:**
+- **Promedio general** de calificaciones del curso
+- **Tasa de finalización** de tareas y exámenes
+- **Participación activa** en foros y actividades
+- **Tendencias de mejora/declive** en el tiempo
+
+#### **Análisis Individual por Estudiante**
+1. **Tocar nombre del estudiante** en la lista
+2. **Ver desglose detallado:**
+   - **Calificaciones** por tarea y examen
+   - **Fechas de entrega** y puntualidad
+   - **Participación** en actividades del curso
+   - **Progreso temporal** a lo largo del semestre
+
+#### **Representación Visual**
+- **📊 Gráficos de barras**: Comparación de calificaciones
+- **📈 Gráficos de línea**: Evolución temporal del desempeño
+- **🔄 Gráficos circulares**: Distribución de calificaciones
+- **📱 Vista adaptativa** para diferentes tamaños de pantalla
+
+#### **Filtros Avanzados**
+1. **Tocar "Filtros ▼"**
+2. **Aplicar criterios:**
+   - **Rango de calificaciones** (0-10)
+   - **Estado de entregas** (A tiempo/Tarde/No entregado)
+   - **Tipo de actividad** (Tareas/Exámenes/Participación)
+   - **Período específico** (Semanal/Mensual/Personalizado)
+
+#### **Exportación de Informes**
+1. **Tocar "Exportar 📄"** en la esquina superior
+2. **Seleccionar formato:**
+   - **PDF**: Informe completo con gráficos
+   - **Excel**: Datos tabulados para análisis
+   - **CSV**: Datos simples para importar
+3. **Elegir contenido a exportar:**
+   - Estadísticas generales
+   - Datos individuales
+   - Gráficos incluidos
+
+### 📝 Retroalimentación y Calificaciones (Para Docentes)
+
+#### **Acceso a Evaluaciones Pendientes**
+1. **Ir a "Mis Asignaciones"**
+2. **Tocar "Ver detalles"** en tarea/examen
+3. **Seleccionar estudiante** de la lista de entregas
+
+#### **Proporcionar Retroalimentación Manual**
+1. **En la pantalla de evaluación:**
+   - **Campo "Calificación"**: Asignar nota numérica (0-10)
+   - **Campo "Comentarios"**: Escribir retroalimentación detallada
+   - **Sección "Observaciones"**: Notas adicionales privadas
+
+#### **Herramientas de Evaluación**
+2. **Opciones disponibles:**
+   - **✅ Criterios de evaluación**: Lista de verificación predefinida
+   - **🎯 Rúbricas**: Evaluación por competencias específicas
+   - **📊 Comparación grupal**: Ver rendimiento vs. promedio del curso
+
+#### **Retroalimentación Asistida por IA**
+3. **Activar "Asistente IA 🤖":**
+   - **Análisis automático** de la respuesta del estudiante
+   - **Sugerencias de mejora** generadas por IA
+   - **Puntos destacados** automáticamente identificados
+   - **Resumen conciso** de fortalezas y debilidades
+
+#### **Gestión de Comentarios**
+4. **Editar retroalimentación:**
+   - **Modificar comentarios** antes de enviar
+   - **Agregar emojis** para hacer más amigable la retroalimentación
+   - **Plantillas predefinidas** para comentarios frecuentes
+   - **Historial de cambios** para seguimiento
+
+#### **Envío y Notificación**
+5. **Finalizar evaluación:**
+   - **Tocar "Guardar y Enviar"** para notificar al estudiante
+   - **Opción "Guardar Borrador"** para completar después
+   - **Notificación automática** al estudiante vía app
+
+#### **Privacidad y Seguridad**
+- **🔒 Acceso restringido**: Solo docente y estudiante específico
+- **📱 Sincronización segura**: Datos encriptados en tránsito
+- **🗂️ Historial completo**: Registro de todas las evaluaciones
+- **⏰ Marcas de tiempo**: Fecha y hora de cada comentario
+
+### 📈 Seguimiento de Retroalimentación (Para Estudiantes)
+
+#### **Vista del Estudiante**
+**Cuando el estudiante accede a su tarea evaluada:**
+1. **Calificación prominente** en la parte superior
+2. **Comentarios del docente** en sección dedicada
+3. **Sugerencias de IA** (si están disponibles)
+4. **Botón "Solicitar Aclaración"** para dudas adicionales
+
+#### **Visualización de Evaluaciones**
+1. **Ir a "Mis Cursos"**
+2. **Seleccionar curso específico**
+3. **Tocar "Ver Calificaciones"**
+
+#### **Información Detallada**
+- **📋 Nota final** con desglose por criterios
+- **💬 Comentarios del docente** organizados por secciones
+- **🤖 Análisis de IA** con sugerencias de mejora
+- **📈 Comparación** con el promedio del curso (opcional)
+
+#### **Seguimiento de Progreso Personal**
+- **📊 Gráfico de evolución** de calificaciones
+- **🎯 Metas alcanzadas** y pendientes
+- **📅 Cronología** de entregas y evaluaciones
+- **⭐ Reconocimientos** por logros destacados
+
+### 💬 Chat de Asistencia Personalizado (Para Estudiantes)
+
+#### **Consultas Académicas Frecuentes**
+- **"¿Cuándo es mi próximo examen?"**
+- **"¿Qué tareas tengo pendientes?"**
+- **"Explícame este tema del curso"**
+- **"¿Cómo mejoro mi calificación?"**
+
+#### **Recomendaciones Inteligentes**
+- **Cursos sugeridos** basados en tu historial
+- **Horarios optimizados** para tu perfil
+- **Recursos adicionales** para temas específicos
+- **Estrategias de estudio** personalizadas
 
 ---
